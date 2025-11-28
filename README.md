@@ -17,3 +17,12 @@ It allows users to create, edit, and delete tasks easily with a modern and respo
 - **UI:** Jetpack Compose  
 - **Architecture:** MVVM
 - **Storage:** Room / SharedPreferences  
+
+## How to Run
+
+1. Clone this repository
+
+`bash
+https://github.com/srudik832/ToDoApp2
+
+1. Clone this repositor
